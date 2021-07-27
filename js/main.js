@@ -1,4 +1,4 @@
-const url = '../docs/the.pdf';
+const url = 'https://pdfhost.io/v/vww4rz.wU_learningsequence_and_series.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
